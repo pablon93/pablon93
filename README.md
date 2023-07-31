@@ -1,8 +1,8 @@
 ## Olá, eu sou o Pablo Ferreira 👋
 
-- 🔭 Já atuei na FTI-Tecnologia como Desenvolvedor .NET
-- Já atuei como Desenvolvedor na plataforma Miisy do Mercado Eletrônico
-- Estou cursando ADS
+- 🔭 Atuei em uma fábrica de software como Desenvolvedor WEB
+- Já atuei como Desenvolvedor lowcode para CRM Mercado Eletrônico
+- Estou cursando Desenvolvimento Full Stack na Estácio
 - 📧 E-mail: pablo.fti@gmail.com
 
 <div>
